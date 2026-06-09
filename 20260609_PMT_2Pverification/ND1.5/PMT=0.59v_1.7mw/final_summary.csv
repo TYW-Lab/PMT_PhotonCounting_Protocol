@@ -1,0 +1,11 @@
+Metric,Value
+Number of files,10
+Total signal samples,100000000
+Absolute signal mean,0.00413241268011
+Signal std,0.0052183719547080456
+Number of minima,23325205
+Threshold (V),-0.052742397273540215
+Minimum photon count,19
+Maximum photon count,32
+Mean photon count,25.1
+Std photon count,4.592385001282013
