@@ -35,7 +35,7 @@ $$
 [Thermo Fisher 69720](https://www.thermofisher.com/order/catalog/product/69720))
 2. <a id="eq-rack"></a>Tube rack (e.g., [Weramics](https://www.amazon.com/microcentrifuge-centrifuge-Holder-0-5ml-2ml-Centrifugal/dp/B0D8R66MQ1/ref=sr_1_3?crid=1ZI3PYB3G9CUW&dib=eyJ2IjoiMSJ9.YORppysqg2ETX3WIv1hENrcBaf5mFiQT1zwaMrziZxj4AO9c8Xdj1H7rB4cdGXhXPN5NPZLih2-Zv4NAnjZxWRS0aKGhmVgp_CD9SMFMh5y9FSw52Hk&th=1), [Sigma Aldrich HS29025G-5EA](https://www.sigmaaldrich.com/US/en/product/sigma/hs29025g?utm_source=google&utm_medium=cpc&utm_campaign=23331190685&utm_content=194830326172&gad_source=1&gad_campaignid=23331190685&gbraid=0AAAAAD8kLQT9hVwcGrJZokAPJjItG0NNi&gclid=CjwKCAjw5ZXQBhBdEiwAI5XVWf9K6cRtAhF6BAougAjviP_rQfLuJX6rEvGCAW4uzJG8zfSE7cYZ4BoC63MQAvD_BwE))
 3. <a id="eq-DI"></a>DI water (obtained from BU NPC), stored in a wash bottle. 
-4. <a id="eq-pipettes"></a>Pipettes covering $2–20\ \text{µL}$ and $20–200\ \text{µL}$ volume ranges (e.g., [Thermo Fisher F2-20R and Thermo Fisher F2-200R](https://pipette.com/F2-20R.html)), stored in a pipette stand. 
+4. <a id="eq-pipettes"></a>Pipettes covering $2\sim20\ \text{µL}$ and $20\sim200\ \text{µL}$ volume ranges (e.g., [Thermo Fisher F2-20R and Thermo Fisher F2-200R](https://pipette.com/F2-20R.html)), stored in a pipette stand. 
 5. <a id="eq-sharpcontainer"></a>Sharps disposal container (obtained from BU EHS department)
 6. <a id="eq-vortexer"></a>Vortexer (e.g., [VWR IKA Model MV1](https://www.marshallscientific.com/VWR-IKA-Model-MV1-Vortexer-p/vwr-ika.htm?srsltid=AfmBOop9bjFGTjvm6mfIoLMPdbEW2Kp7j4NSZWPVejsxydbgDRdUsfgK))
 
