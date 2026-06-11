@@ -171,7 +171,7 @@ $$
 \ln(Photon) = k \ln(Power) + b
 $$
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; where $k$ is the effective order of the multiphoton excitation process. For an ideal 2PE process, $k = 2$, whereas for an ideal 3PE process, $k = 3$. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; where $k$ is the effective order of the multiphoton excitation process. For an ideal 2PE process, $k = 2$, whereas for an ideal 3PE process, $k = 3$. 
 
 - An example of the fitting result is shown in the figure below.
 
