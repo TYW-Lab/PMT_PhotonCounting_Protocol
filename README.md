@@ -61,7 +61,7 @@ $$
 ## Dye pool sample preparation
 - Retrieve two [microcentrifuge tubes](#eq-tubes) from the cabinet and place them into the [tube rack](#eq-rack). Dispense approximately $1\ \text{mL}$ of [DI water](#eq-di) from the wash bottle into a tube. 
 
-- Using the pipettes from the pipette stand, pipette $10\ \text{µL}$ of fluorescein with a [$2\sim20\ \text{µL}$ pipette](#eq-pipettes) and $90\ \text{µL}$ of DI water with a [$20–200 \text{µL}$ pipette](#eq-pipettes) into the same tube. Dispose of the pipette tips into the [sharps container](#eq-sharpcontainer).
+- Using the pipettes from the pipette stand, pipette $10\ \text{µL}$ of fluorescein with a $[2\sim20\ \text{µL} pipette]$(#eq-pipettes) and $90\ \text{µL}$ of DI water with a [$20–200 \text{µL}$ pipette](#eq-pipettes) into the same tube. Dispose of the pipette tips into the [sharps container](#eq-sharpcontainer).
 
 - Turn on the [mini vortexer](#eq-vortexer) and set the speed to $1400\ \text{rpm}$. Place the tube on the vortexer and mix thoroughly (approximately $40$ second). 
 
