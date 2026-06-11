@@ -42,7 +42,7 @@ $$
 **Additional items not labeled in the figure:**
 
 - <a id="eq-slide"></a>Microscope slide (e.g., [AmScope slide](https://amscope.com/products/bs-50p?_su_rec=dvzX1JygNKH83jx8M9-sJSabLn47ZUmB17fe-Sdp6B5Glkz5qs0SEmUuswS1bymGIfx1Dk5vWTNEyAlE8eN7o0e-K-hBfZ4XVl-l6425ZBBscnY0ho8R9RaV18beMmb6hYfxDUga2EmhT6hcMWZclyjs4E5CaxTYUGcjEDd-CJW8pBUX49gwDeVTyxUM7c4_ZV_YJDLk9do-tq2BQ2aLZk7ZUPCF-INT0tonFkUf3I8VdWFjUKswlMsW&_su_rec_id=e8dbe9ae-768f-407d-a4ff-80304caa7649-1781120714); $3"L\times 2.5"W\times1"H$)
-- <a id="eq-coverslip"></a>Coverslip (e.g., [Thorlabs CG15CH2](https://www.thorlabs.com/item/CG15CH2), $#1.5\text{H}\ \text{thickness}$, $22\ \text{mm} \times 22 \text{mm}$)
+- <a id="eq-coverslip"></a>Coverslip (e.g., [Thorlabs CG15CH2](https://www.thorlabs.com/item/CG15CH2), #1.5 thickness}, $22\ \text{mm} \times 22 \text{mm}$)
 - <a id="eq-swab"></a>Cotton swab (e.g., [VWR International 10806-000-PK](https://www.labdepotinc.com/p-64-cotton-tipped-wooden-applicators?utm_term=&utm_campaign=Performance+Max+-+AGT&utm_source=adwords&utm_medium=ppc&hsa_acc=5326096552&hsa_cam=15278638752&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa))
 - <a id="eq-polish"></a>Nail polish (e.g., [Sally Hansen](https://www.amazon.com/Sally-Hansen-Advanced-Nails-Fluid/dp/B0046MLZLG?th=1))
 - <a id="eq-glue"></a>Glue (e.g., [Kcrazy glue](https://www.amazon.com/Krazy-Glue-EPIKG86648R-KG86648R-All-Purpose/dp/B0BXMWDM42/ref=sr_1_8?crid=2H3DLY2HBZ1CP&dib=eyJ2IjoiMSJ9.ZVQWAnzUL49sypVj2K7n-leSSrUo7HbydfUd-yI2bc795v5Pu9ScxNl3HniW7hCEcXaGtl3xIBKb4z0qt5psn8JYd0jh3G0daA0tnMldLPD4FYgdFbVpa6mZ_Phrbjb&th=1))
@@ -61,7 +61,7 @@ $$
 ## Dye pool sample preparation
 - Retrieve two [microcentrifuge tubes](#eq-tubes) from the cabinet and place them into the [tube rack](#eq-rack). Dispense approximately $1\ \text{mL}$ of [DI water](#eq-di) from the wash bottle into a tube. 
 
-- Using the pipettes from the pipette stand, pipette $10\ \text{µL}$ of fluorescein with a $[2\sim20\ \text{µL} pipette]$(#eq-pipettes) and $90\ \text{µL}$ of DI water with a [$20–200 \text{µL}$ pipette](#eq-pipettes) into the same tube. Dispose of the pipette tips into the [sharps container](#eq-sharpcontainer).
+- Using the pipettes from the pipette stand, pipette $10\ \text{µL}$ of fluorescein with a [2–20 µL pipette](#eq-pipettes) and $90\ \text{µL}$ of DI water with a [20–200 µL pipette](#eq-pipettes) into the same tube. Dispose of the pipette tips into the [sharps container](#eq-sharpcontainer).
 
 - Turn on the [mini vortexer](#eq-vortexer) and set the speed to $1400\ \text{rpm}$. Place the tube on the vortexer and mix thoroughly (approximately $40$ second). 
 
