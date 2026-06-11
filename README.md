@@ -65,7 +65,7 @@ $$
 
 - Turn on the [mini vortexer](#eq-vortexer) and set the speed to $1400\ \text{rpm}$. Place the tube on the vortexer and mix thoroughly (approximately $40$ second). 
 
-- Using a $2–20\ \text{µL}$ pipette, pipette $20\ \text{µL}$ of the mixture and dispense it into the [slide](#eq-slide).
+- Using a $2\sim20\ \text{µL}$ pipette, pipette $20\ \text{µL}$ of the mixture and dispense it into the [slide](#eq-slide).
 
 - Slowly lower the [coverslip](#eq-coverslip) from the side so that it gently covers the sample on the slide and avoid pressing down forcefully to reduce bubble formation.
 
